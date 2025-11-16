@@ -4,6 +4,32 @@ This repository contains a Power BI dashboard project titled **"Chougule's Ecomm
 
 ---
 
+## 📷 Preview
+
+## MP4 Video
+
+![Dashboard Preview](Screenshots/Output4)
+
+---
+
+## 📷 Output 1
+
+![Dashboard Preview](Screenshots/Output1)
+
+---
+
+## 📷 Output 2
+
+![Dashboard Preview](Screenshots/Output2)
+
+---
+
+## 📷 Output 3
+
+![Dashboard Preview](Screenshots/Output3)
+ 
+---
+
 ## 📁 Files Included
 
 - `Chougule_Ecommerce_Dashboard.pbix` – Power BI Desktop report file
