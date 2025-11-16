@@ -6,6 +6,13 @@ This repository contains a Power BI dashboard project titled **"Chougule's Ecomm
 
 ## 📷 Preview
 
+## 📹 Video Output
+<video width="600" controls>
+  <source src="Screenshots/Output4.mp4" type="video/mp4">
+</video>
+
+---
+
 ## 📷 Output 1
 
 ![Output1](Screenshots/Output1.jpg)
