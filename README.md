@@ -83,23 +83,3 @@ If you’d like to use this dashboard with your own dataset:
 1. Open the `.pbix` file in Power BI Desktop
 2. Go to **Transform Data > Edit Queries**
 3. Replace the missing source with your own Excel or database file
-
----
-
-## 📷 Preview
-
-![Dashboard Preview](POwerBI%20Chougule%20Dashboard.png)
-
----
-
-## 📬 Contact
-
-For any feedback or questions, feel free to reach out via GitHub or create an issue in this repository.
-
----
-
-## 📝 License
-
-This project is shared for educational and portfolio purposes.  
-Feel free to fork, modify, and reuse with proper attribution.
-
